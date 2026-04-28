@@ -1,0 +1,28 @@
+# Core
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.11
+
+# Oversampling
+imbalanced-learn>=0.11
+
+# GAN-based synthesis
+sdv>=1.0          # CTGAN, TVAE
+
+# Boosting
+lightgbm>=4.0
+
+# Genetic Algorithm
+deap>=1.4
+
+# Statistical tests
+autorank>=1.1
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.13
+
+# Notebook
+jupyter>=1.0
+ipykernel>=6.0
