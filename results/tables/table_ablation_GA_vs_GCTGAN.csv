@@ -1,0 +1,4 @@
+classifier,GA_mean,GCTGAN_mean,mean_delta,GA_wins,n,wilcoxon_p
+RF,0.8697,0.8635,0.0062,6,7,0.1562
+LGBM,0.8755,0.8692,0.0064,6,7,0.1094
+MLP,0.8307,0.824,0.0067,6,7,0.1562
